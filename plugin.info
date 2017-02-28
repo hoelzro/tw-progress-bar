@@ -1,10 +1,10 @@
 {
     "title": "$:/plugins/hoelzro/progress-bar",
-    "description": "Progress Bar Widget For TiddlyWiki",
+    "description": "Progress Bar Widget",
     "author": "RobHoelz",
     "version": "0.0.1",
     "core-version": ">=5.1.13",
     "source": "https://github.com/hoelzro/tw-progress-bar",
-    "plugin-type": "plugin"
+    "plugin-type": "plugin",
+    "list": "readme license history"
 }
-
