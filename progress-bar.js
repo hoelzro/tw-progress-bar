@@ -50,6 +50,6 @@ ProgressBarWidget.prototype.refresh = function refresh(changedTiddlers) {
     return this.refreshChildren(changedTiddlers);
 };
 
-exports['progress-bar'] = ProgressBarWidget;
+exports['hoelzro-progressbar'] = ProgressBarWidget;
 
 })();
