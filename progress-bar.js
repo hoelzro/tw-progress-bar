@@ -1,5 +1,5 @@
 /*\
-title: $:/plugin/hoelzro/progress-bar/progress-bar.js
+title: $:/plugins/hoelzro/progress-bar/progress-bar.js
 type: application/javascript
 module-type: widget
 
